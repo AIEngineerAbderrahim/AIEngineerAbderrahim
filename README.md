@@ -2,7 +2,7 @@ Abderrahim Aghzal
 
 ## AI Student
 
-👋 Hello! I'm [Your Name], an AI enthusiast and student, passionate about the world of artificial intelligence and machine learning.
+👋 Hello! I'm Aghzal Abderrahim, an AI enthusiast and student, passionate about the world of artificial intelligence and machine learning.
 
 🌱 I'm currently pursuing my Bachelor degree in major of artificial intellignet with a focus on AI, at UEMF University. My academic journey has been a thrilling exploration of AI and its various applications, from natural language processing to computer vision.
 
